@@ -12,3 +12,7 @@ It's worth noting that [these folktale collections](https://en.wikipedia.org/wik
 #### Please contribute
 
 If you find text missing (it's possible a volume or two were missed, though I don't think so) or that does not belong (less likely), feel free to open a PR. Likewise, I'd like to see any work produced via this repo, and would welcome an index of projects and recipes should any arise.
+
+#### WIP
+
+Please note: the GPT-2 corpus is a work in progress, and it's included here for ease of access. I'm not certain of it's correctness is my point, and it is likely to change.
